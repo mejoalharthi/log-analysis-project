@@ -15,7 +15,7 @@
 built-in
 5. Download the database setup: [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 6. Download or Clone this project
-7. Upzip last two files and Make a folder for this project named "log-analysis-project" then copy all it into the vagrant directory.
+7. Unzip last two files and Make a folder for this project named "log-analysis-project" then copy all it into the vagrant directory.
 
 Open Git bash or Terminal navigate to the project folders by following this instructions:
   ```
@@ -23,7 +23,6 @@ Open Git bash or Terminal navigate to the project folders by following this inst
   vagrant up
   vagrant ssh
   cd /vagrant
-  mkdir log-analysis-project
   cd log-analysis-project
   ```
 
